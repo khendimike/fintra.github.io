@@ -1,0 +1,38 @@
+.main {
+  background-color: rgb(168, 8, 133);
+}
+
+.welcome-text {
+  font-size: 22px;
+  text-align: center;
+  padding: 40px;
+
+}
+
+h2 {
+  text-align: center;
+  font-size: 40px;
+  color: rgb(159, 230, 19);
+}
+
+.welcome-text:hover {
+  transition-property: font-size;
+  transition-duration: 2s;
+  transition-timing-function: ease-in;
+}
+
+.footer {
+  color: rgb(159, 230, 19);
+  background-color: rgb(15, 15, 15);
+}
+
+.footer ul li a {
+  text-decoration: none;
+  color: #fff;
+  padding: 10px;
+}
+
+.footer ul li a:hover {
+  color: rgb(172, 212, 91);
+  ;
+}
